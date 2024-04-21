@@ -20,3 +20,6 @@ Just create a simple discord bot which uses commands to perform some task... You
 
 #### Discord bot image...
 ![discordbot_ss](https://github.com/adityapradhan202/resivalueAI/blob/main/ss_resivalueAI.png)
+
+#### License:
+This project is lincensed under MIT LICENSE. You can check that here - [MIT LICSENSE](https://github.com/adityapradhan202/resivalueAI/blob/main/LICENSE)
