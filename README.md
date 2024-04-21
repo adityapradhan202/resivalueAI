@@ -15,9 +15,11 @@ ResivalueAI is a discord bot powered by machine learning and AI which gives you 
 11. Find the best value of l1_ratio and alpha.
 12. Perform Cross-Validation to enhance performance.
 13. Create and dump final machine learning model and final instance of PolynomialFeatures.
+14. 
 #### For discord bot...
-Just create a simple discord bot which uses commands to perform some task... You can check the discord API documentation here -  
-[Discord API docs](https://discordpy.readthedocs.io/en/stable/api.html)
+- First go to discord's developer portal to create your discord application.
+- Just create a simple discord bot which uses commands to perform some task.  
+You can check the discord API documentation here - [Discord API docs](https://discordpy.readthedocs.io/en/stable/api.html)
 
 #### Discord bot image...
 ![discordbot_ss](https://github.com/adityapradhan202/resivalueAI/blob/main/ss_resivalueAI.png)
