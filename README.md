@@ -17,8 +17,8 @@ ResivalueAI is a discord bot powered by machine learning and AI which gives you 
 13. Create and dump final machine learning model and final instance of PolynomialFeatures.
 
 #### For discord bot...
-- First go to discord's developer portal to create your discord application.
-- Just create a simple discord bot which uses commands to perform some task.  
+- First go to discord's developer portal to create your discord application. Invite the bot using your URL.
+- Then just create a simple discord bot which uses commands to perform some task.  
 You can check the discord API documentation here - [Discord API docs](https://discordpy.readthedocs.io/en/stable/api.html)
 
 #### Discord bot image...
